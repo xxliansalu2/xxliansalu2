@@ -7,6 +7,8 @@ I'm a QA professional with experience in testing for web development and video g
 
  Let’s connect and explore opportunities to collaborate!
 
+ [📢 Repository updates coming soon!]
+
 ## About Me 🤺
 
 QA professional with expertise in web and game testing. Focused on technical documentation and teamwork.

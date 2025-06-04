@@ -1,5 +1,5 @@
 
-<img width="1767" alt="Frame 1@2x (3)" src="https://github.com/user-attachments/assets/5767936d-cd56-4804-a5be-a96a627e4ffe" />
+<img width="1767" alt="Frame 1@2x (1)" src="https://github.com/user-attachments/assets/e27bf9fa-d8fd-4706-9619-7526c3854b68" />
 
 I'm a QA professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.
 

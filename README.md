@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lian Prodo <a target="_blank" href="https://www.linkedin.com/in/lian-prodo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lian Prodo <a target="_blank" href="https://www.linkedin.com/in/lian-prodo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <h3 align="center">QA Engineer | Manual & Automated Testing | Scrum
 <p align="center">
 

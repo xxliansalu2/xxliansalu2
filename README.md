@@ -6,15 +6,17 @@
 <hr>
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  
- I'm Lian Prodo
+I'm Lian Prodo
 <h3 align="center">QA Engineer | Manual & Automated Testing 
 <p align="center">
 
-Professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.
-
- I value curiosity, detail orientation, and collaboration. Always eager to learn and grow, I’m currently enhancing my skills in industry trends and English.
+<h4 
  
- Let’s connect and explore opportunities to collaborate!
+ *Professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.*
+
+ *I value curiosity, detail orientation, and collaboration. Always eager to learn and grow, I’m currently enhancing my skills in industry trends and English.*
+ 
+ *Let’s connect and explore opportunities to collaborate!*
 
  [📢 Repository updates coming soon!]
 

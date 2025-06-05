@@ -1,10 +1,17 @@
 
 ![1660310017384](https://github.com/user-attachments/assets/607c4e6e-f0ae-49d9-b74c-11b9f3f2ab63)
 
-I'm a QA professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.
+<p align="center">
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lian Prodo
+<h3 align="center">QA Engineer | Scrum | Manual & Automated Testing
+<p align="center">
+
+Professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.
 
  I value curiosity, detail orientation, and collaboration. Always eager to learn and grow, I’m currently enhancing my skills in industry trends and English.
-
+ 
  Let’s connect and explore opportunities to collaborate!
 
  [📢 Repository updates coming soon!]
@@ -45,6 +52,6 @@ Unreal, Unity, Construct
 • I really enjoy spending time with my family and in the garden with my pets and plants. 🌱🐶😸
 I also enjoy playing board games and video games. 🎮🏆
 
-
+<a target="_blank" href="https://www.linkedin.com/in/lian-prodo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 

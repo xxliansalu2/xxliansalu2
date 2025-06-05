@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lian Prodo
-<h3 align="center">QA Engineer | Scrum | Manual & Automated Testing
+<h3 align="center">QA Engineer | Manual & Automated Testing | Scrum
 <p align="center">
 
 Professional with experience in testing for web development and video games, including functional, regression, and exploratory testing. Skilled in test automation with tools like Selenium and TestNG, Data-Driven Testing, and UI validations for e-commerce platforms.
